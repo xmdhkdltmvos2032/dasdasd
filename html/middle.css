@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+.box{
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.h2{
+    margin-top: 20px;
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.item-content{
+    width: 736px;
+    font-size: 20px;
+    height: 120px;
+    font-weight: 300;
+}
+
+.btn{
+    margin-top: 8px;
+}
+
+.btn>button{
+    padding: 15px 30px 15px 30px;
+    font-size: 24px;
+    border-radius: 6px;
+}
+
+.blue{
+    background: #0d6efd;
+    color: #f5fdfe;
+    border: none;
+}
+
+.white{
+    background: #ffffff;
+    color: #a5a39e;
+    border: 1px solid #6c757d;
+}
